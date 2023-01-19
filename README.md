@@ -33,3 +33,7 @@ python3 shortenerlink.py
 `
 python shortnerlonk.py
 `
+# View Page
+<hr/>
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{shortnerlink}/count.svg" /></p>
+
