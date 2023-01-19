@@ -2,13 +2,14 @@
 
 ## Install libraries
 
-`pip install rainbowtext
-
+`
+pip install rainbowtext
 `
 
 `
 pip install pyfiglet
 `
+
 `
 pip install pyshorteners
 `
@@ -18,13 +19,17 @@ pip install pyshorteners
 `
 git clone https://github.com/ShahrokhParazit/Shartner-link
 `
+
 `
 cd Shortener-Link
 `
+
 `
 python3 shortenerlink.py
 `
+
   OR
+
 `
 python shortnerlonk.py
 `
