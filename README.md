@@ -33,7 +33,16 @@ python3 shortenerlink.py
 `
 python shortnerlonk.py
 `
+# Example link:
+
+
+`
+https://tinyurl.com/2h6d5lcc
+
+`
+
 # View Page
 <hr/>
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{shortnerlink}/count.svg" /></p>
+
 
